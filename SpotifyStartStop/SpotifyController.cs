@@ -8,8 +8,8 @@ namespace SpotifyStartStop
 {
     public class SpotifyController
     {
-        private static string _clientId = "1874be34159348c09311335348c609dc"; 
-        private static string _clientSecret = "78a74b7d52ad4a4da264996f3df67d04"; 
+        private static string _clientId = ""; 
+        private static string _clientSecret = ""; 
         private static Uri _redirectUri = new Uri("http://localhost:8888/callback"); 
         private static string refreshCode = "";
         public SpotifyClient? spotify;
