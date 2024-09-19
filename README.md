@@ -10,4 +10,4 @@ One exception is when we manually stop playback of spotify then only manual star
 
 # Roadmap
 Application is bare bones right now really made for one configuration. 
-In future I hope to add GUI when we can select which audio device is sampled for sound with a list of available devices to eliminate need of looking for your device id.
+In future I hope to add GUI where we can select which audio device is sampled for sound with a list of available devices to eliminate need of looking for your device id.
